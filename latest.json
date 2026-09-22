@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "20260922.154145",
-  "generated_at": "2026-09-22T07:42:08.321245+00:00",
+  "release": "20260922.173147",
+  "generated_at": "2026-09-22T09:32:25.976412+00:00",
   "unit": "centimeter",
   "webxr_scale": 0.01,
   "models": [
@@ -20,6 +20,17 @@
           "asset": "models/receipt-18-yellow.glb",
           "bytes": 96256,
           "sha256": "a7a405caf7593423b020b62443614f13c4d15f6462e86a436dfbf68ac2465a58",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 1699
+        },
+        {
+          "id": "pxmart",
+          "label": "全聯版",
+          "asset": "models/receipt-18-pxmart.glb",
+          "bytes": 104808,
+          "sha256": "46a913a3ec07636d178eecb98abbe966e3c09f5e22ba02e4e0b23955106d9f1f",
           "meshes": 1,
           "materials": 1,
           "textures": 1,
@@ -57,6 +68,28 @@
           "materials": 1,
           "textures": 1,
           "triangles": 1703
+        },
+        {
+          "id": "pxmart",
+          "label": "全聯版",
+          "asset": "models/receipt-21-pxmart.glb",
+          "bytes": 105088,
+          "sha256": "f0aa58c6be0d5983aef7f6c9bdee8873fc399471060ec5dc60aeec3f04fc0a8b",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 1703
+        },
+        {
+          "id": "tlw",
+          "label": "特力屋版",
+          "asset": "models/receipt-21-tlw.glb",
+          "bytes": 101212,
+          "sha256": "498373bcbac8e4803864547ebd24784f8c5d0a3ce1d845b44b46774b80866eeb",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 1703
         }
       ]
     },
@@ -90,6 +123,17 @@
           "materials": 1,
           "textures": 1,
           "triangles": 16167
+        },
+        {
+          "id": "pxmart",
+          "label": "全聯版",
+          "asset": "models/receipt-27-low-pxmart.glb",
+          "bytes": 1560924,
+          "sha256": "5f60f795f5fcd046b66dafb56923290e3087eea00c32106190686d1eb0691a94",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 16167
         }
       ]
     },
@@ -119,6 +163,28 @@
           "asset": "models/receipt-27-tall-gray.glb",
           "bytes": 1574852,
           "sha256": "2e0e8b6f9187ce3583c58e904c906f374d3c0ddbaf6446bca9bd47db1a2ffca1",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 16567
+        },
+        {
+          "id": "pxmart",
+          "label": "全聯版",
+          "asset": "models/receipt-27-tall-pxmart.glb",
+          "bytes": 1583744,
+          "sha256": "1b34c74fe9decc1ba9afd7864a000ca1bc318ac9e244ce0542cb2c29b8e173e8",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 16567
+        },
+        {
+          "id": "tlw",
+          "label": "特力屋版",
+          "asset": "models/receipt-27-tall-tlw.glb",
+          "bytes": 1579868,
+          "sha256": "adb669ae34aa774eaa8b321dafaf4e25a709d9c1f43a81526eca336839bca9f8",
           "meshes": 1,
           "materials": 1,
           "textures": 1,
