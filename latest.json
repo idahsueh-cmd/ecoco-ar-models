@@ -1,0 +1,163 @@
+{
+  "schema": 1,
+  "release": "20260922.1",
+  "generated_at": "2026-09-22T07:27:24.003771+00:00",
+  "unit": "centimeter",
+  "webxr_scale": 0.01,
+  "models": [
+    {
+      "id": "receipt-18",
+      "label": "1.8 收瓶機（高版）",
+      "size_cm": {
+        "w": 180.3,
+        "h": 220,
+        "d": 113
+      },
+      "variants": [
+        {
+          "id": "yellow",
+          "label": "ECOCO 黃版",
+          "asset": "models/receipt-18-yellow.glb",
+          "bytes": 96256,
+          "sha256": "a7a405caf7593423b020b62443614f13c4d15f6462e86a436dfbf68ac2465a58",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 1699
+        }
+      ]
+    },
+    {
+      "id": "receipt-21",
+      "label": "2.1 收瓶機（高版）",
+      "size_cm": {
+        "w": 208.3,
+        "h": 220,
+        "d": 113
+      },
+      "variants": [
+        {
+          "id": "yellow",
+          "label": "ECOCO 黃版",
+          "asset": "models/receipt-21-yellow.glb",
+          "bytes": 96536,
+          "sha256": "bdadbe1e708f4f3ef4cc717966a6dad8941bc6264cd12b683b40061b32288faf",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 1703
+        },
+        {
+          "id": "gray",
+          "label": "ECOCO 灰版",
+          "asset": "models/receipt-21-gray.glb",
+          "bytes": 96196,
+          "sha256": "dfbca119906cd48755468590cab2eef09d21f4a41bd9e3d0db7f832d9d113c74",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 1703
+        }
+      ]
+    },
+    {
+      "id": "receipt-27-low",
+      "label": "2.7 收瓶機（低版）",
+      "size_cm": {
+        "w": 268.1,
+        "h": 190,
+        "d": 119
+      },
+      "variants": [
+        {
+          "id": "yellow",
+          "label": "ECOCO 黃版",
+          "asset": "models/receipt-27-low-yellow.glb",
+          "bytes": 1552372,
+          "sha256": "e65e48fab4031c3829ea1419b72d2f806646b5062c7e20cd98dd08f09d40ebc2",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 16167
+        },
+        {
+          "id": "gray",
+          "label": "ECOCO 灰版",
+          "asset": "models/receipt-27-low-gray.glb",
+          "bytes": 1552032,
+          "sha256": "37a7aadba6f78272ca19812cb6ae964e65cfdfe6e980da0eef0c4c1732081ba1",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 16167
+        }
+      ]
+    },
+    {
+      "id": "receipt-27-tall",
+      "label": "2.7 收瓶機（高版）",
+      "size_cm": {
+        "w": 268.3,
+        "h": 220,
+        "d": 119
+      },
+      "variants": [
+        {
+          "id": "yellow",
+          "label": "ECOCO 黃版",
+          "asset": "models/receipt-27-tall-yellow.glb",
+          "bytes": 1575192,
+          "sha256": "3118e2ec3eac4d446edf28de82a0fd2d77aa1e35c81d0d8f02ad4b5a32145f29",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 16567
+        },
+        {
+          "id": "gray",
+          "label": "ECOCO 灰版",
+          "asset": "models/receipt-27-tall-gray.glb",
+          "bytes": 1574852,
+          "sha256": "2e0e8b6f9187ce3583c58e904c906f374d3c0ddbaf6446bca9bd47db1a2ffca1",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 16567
+        }
+      ]
+    },
+    {
+      "id": "refill-v2",
+      "label": "二代水精靈補充站",
+      "size_cm": {
+        "w": 85,
+        "h": 190,
+        "d": 88
+      },
+      "variants": [
+        {
+          "id": "white",
+          "label": "白版",
+          "asset": "models/refill-v2-white.glb",
+          "bytes": 468776,
+          "sha256": "38b8f5c738bca1c04952524ac27e2b6de0b7727c293d2edd384e8f585ae66d33",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 7310
+        },
+        {
+          "id": "blue",
+          "label": "藍版",
+          "asset": "models/refill-v2-blue.glb",
+          "bytes": 469508,
+          "sha256": "1c935a730f4ab5853056f230e252ec8cdf4411d5f43cfe3945493253ef69988d",
+          "meshes": 1,
+          "materials": 1,
+          "textures": 1,
+          "triangles": 7310
+        }
+      ]
+    }
+  ]
+}
