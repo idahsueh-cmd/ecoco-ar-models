@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "20260924.145535",
-  "generated_at": "2026-09-24T06:56:12.694750+00:00",
+  "release": "20260924.155633",
+  "generated_at": "2026-09-24T07:57:12.246643+00:00",
   "unit": "centimeter",
   "webxr_scale": 0.01,
   "models": [
@@ -205,23 +205,23 @@
           "id": "white",
           "label": "白版",
           "asset": "models/refill-v2-white.glb",
-          "bytes": 616960,
-          "sha256": "4c90e3e6e9d943f567ff1a1a6e76092d1c786e210e9a93811e8dacd9a7284690",
+          "bytes": 738820,
+          "sha256": "08d3eca415a4ac46586919d7465dd204576f3b857d5be8b8c4689492fef1fe15",
           "meshes": 1,
-          "materials": 15,
-          "textures": 10,
-          "triangles": 7304
+          "materials": 18,
+          "textures": 11,
+          "triangles": 8168
         },
         {
           "id": "blue",
           "label": "藍版",
           "asset": "models/refill-v2-blue.glb",
-          "bytes": 610764,
-          "sha256": "04f0c141231ed44db592301c6f930feef6a546d5ac55f64eb9facbeda92df155",
+          "bytes": 732504,
+          "sha256": "2561038cfb6c2fded926a50d510cb901c11508b0c5ecdb1dbed4104c8d806932",
           "meshes": 1,
-          "materials": 15,
-          "textures": 10,
-          "triangles": 7304
+          "materials": 18,
+          "textures": 11,
+          "triangles": 8168
         }
       ]
     }
