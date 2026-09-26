@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "20260925.215654",
-  "generated_at": "2026-09-25T13:57:39.748201+00:00",
+  "release": "20260927.022609",
+  "generated_at": "2026-09-26T18:26:51.501884+00:00",
   "unit": "centimeter",
   "webxr_scale": 0.01,
   "models": [
@@ -18,23 +18,23 @@
           "id": "yellow",
           "label": "ECOCO 黃版",
           "asset": "models/receipt-18-yellow.glb",
-          "bytes": 225320,
-          "sha256": "5391487a73f76a83f3fdba52813965df1a617d7227ce2a6df77f7a2ab03bc135",
+          "bytes": 226224,
+          "sha256": "5152779672479d2bf9502406f8f72b11498473d1f69fb23b93115d76f59b2d82",
           "meshes": 1,
-          "materials": 19,
+          "materials": 20,
           "textures": 10,
-          "triangles": 1701
+          "triangles": 1703
         },
         {
           "id": "pxmart",
           "label": "全聯版",
           "asset": "models/receipt-18-pxmart.glb",
-          "bytes": 243712,
-          "sha256": "6574ca0594af774a5e5df846cd8d0f21a4e8ae39bf849b1ec9787e08da96c7cd",
+          "bytes": 244616,
+          "sha256": "9d8eae683ce243454b37b5fdcaa2df8ff36df6a39a14a9ca1d452e3384c9a8a1",
           "meshes": 1,
-          "materials": 19,
+          "materials": 20,
           "textures": 10,
-          "triangles": 1701
+          "triangles": 1703
         }
       ]
     },
@@ -51,45 +51,45 @@
           "id": "yellow",
           "label": "ECOCO 黃版",
           "asset": "models/receipt-21-yellow.glb",
-          "bytes": 245424,
-          "sha256": "8182895b876ae1f61ffb0d6b4486ca67662de93ba8bfed79c01bff41da529cfc",
+          "bytes": 246328,
+          "sha256": "b60feeb1633b8f4673c5d6e642315d941b5dbe1549d41a3e6c78b72340febd1e",
           "meshes": 1,
-          "materials": 21,
+          "materials": 22,
           "textures": 12,
-          "triangles": 1703
+          "triangles": 1705
         },
         {
           "id": "gray",
           "label": "ECOCO 灰版",
           "asset": "models/receipt-21-gray.glb",
-          "bytes": 245508,
-          "sha256": "6edf6b2f8025fda540c8f66373cfc63ae59f44db2883db8581f98268ee5aafd2",
+          "bytes": 246408,
+          "sha256": "e798cadbb7673820bc1af0b973c92edb64cecbd9516416118fc4b1d6f04e934e",
           "meshes": 1,
-          "materials": 21,
+          "materials": 22,
           "textures": 12,
-          "triangles": 1703
+          "triangles": 1705
         },
         {
           "id": "pxmart",
           "label": "全聯版",
           "asset": "models/receipt-21-pxmart.glb",
-          "bytes": 264400,
-          "sha256": "c4ff8eb0377b1d577d0f167474673af1d738174e9d5b12fb2febd17a197cee06",
+          "bytes": 265300,
+          "sha256": "ef6c1ed93ce7d017f568fb95c97e6f42e2de628f647391134dcac3e74efae005",
           "meshes": 1,
-          "materials": 21,
+          "materials": 22,
           "textures": 12,
-          "triangles": 1703
+          "triangles": 1705
         },
         {
           "id": "tlw",
           "label": "特力屋版",
           "asset": "models/receipt-21-tlw.glb",
-          "bytes": 249148,
-          "sha256": "ee6a062f2c31aacb035e0a2d0ca46473abaedebd0f811aea05622df6e3db0434",
+          "bytes": 250052,
+          "sha256": "94323f2b93d626cb57c4faee321b04b1c4ead180176b49c5ca938ea0ced5efc5",
           "meshes": 1,
-          "materials": 21,
+          "materials": 22,
           "textures": 12,
-          "triangles": 1703
+          "triangles": 1705
         }
       ]
     },
@@ -106,34 +106,34 @@
           "id": "yellow",
           "label": "ECOCO 黃版",
           "asset": "models/receipt-27-low-yellow.glb",
-          "bytes": 1674520,
-          "sha256": "718c25dda1ad58bcfaf4281118d3b41a632299c213c542d1198296a53f38ff4e",
+          "bytes": 1676336,
+          "sha256": "50c175f02dcb9058573d3958ff36a307c88450a643c78b015914dba17f82a268",
           "meshes": 1,
-          "materials": 21,
+          "materials": 23,
           "textures": 11,
-          "triangles": 16167
+          "triangles": 16171
         },
         {
           "id": "gray",
           "label": "ECOCO 灰版",
           "asset": "models/receipt-27-low-gray.glb",
-          "bytes": 1673236,
-          "sha256": "b33a3c636c34d7b39254bb7c4734d402838bee22cfe0182957112680c9a6eed8",
+          "bytes": 1675056,
+          "sha256": "90d2829d71f58e212987af04cf0bcececa8ece3c577585c5584e0708bf63b93b",
           "meshes": 1,
-          "materials": 21,
+          "materials": 23,
           "textures": 11,
-          "triangles": 16167
+          "triangles": 16171
         },
         {
           "id": "pxmart",
           "label": "全聯版",
           "asset": "models/receipt-27-low-pxmart.glb",
-          "bytes": 1697652,
-          "sha256": "a7d6536b9b657e0da08249d490ddb43dca1a2ebebe256061b151c8e3256f3d49",
+          "bytes": 1699472,
+          "sha256": "b747339026a158971dc58c233f966788302ff70432c71e842578fd289eef5e5b",
           "meshes": 1,
-          "materials": 21,
+          "materials": 23,
           "textures": 11,
-          "triangles": 16167
+          "triangles": 16171
         }
       ]
     },
@@ -150,45 +150,45 @@
           "id": "yellow",
           "label": "ECOCO 黃版",
           "asset": "models/receipt-27-tall-yellow.glb",
-          "bytes": 1714992,
-          "sha256": "ef436eec9ff838ffac71890b0840495caa476fc5a141bb6194d84f029af9ac1e",
+          "bytes": 1716812,
+          "sha256": "6133a7a140d555f3e7cda67a3a9db7a974a86c4071aedfbc461cb8aab24a7ef8",
           "meshes": 1,
-          "materials": 25,
+          "materials": 27,
           "textures": 14,
-          "triangles": 16567
+          "triangles": 16571
         },
         {
           "id": "gray",
           "label": "ECOCO 灰版",
           "asset": "models/receipt-27-tall-gray.glb",
-          "bytes": 1713772,
-          "sha256": "53bfe5f2c7cb16c8ec6f7ca1a6152b51f5628dd71f0a5b923c941db971f19002",
+          "bytes": 1715592,
+          "sha256": "8230d4beb9a5e9afd1d1af38d046803ae4e4ff189894a06dbf1a8dfd2a4fdfe0",
           "meshes": 1,
-          "materials": 25,
+          "materials": 27,
           "textures": 14,
-          "triangles": 16567
+          "triangles": 16571
         },
         {
           "id": "pxmart",
           "label": "全聯版",
           "asset": "models/receipt-27-tall-pxmart.glb",
-          "bytes": 1738484,
-          "sha256": "b0d09defd78212e8ae0beeac4ebdce2dc18b4519cb39739852bf4d4c14430521",
+          "bytes": 1740304,
+          "sha256": "7f9340a330b4c2762cd73f12e74edb713086adba983426ba20f5297b274d94d0",
           "meshes": 1,
-          "materials": 25,
+          "materials": 27,
           "textures": 14,
-          "triangles": 16567
+          "triangles": 16571
         },
         {
           "id": "tlw",
           "label": "特力屋版",
           "asset": "models/receipt-27-tall-tlw.glb",
-          "bytes": 1720896,
-          "sha256": "6a442532f34bd52ef57ec3f1776ecf5781b6f22dcc51d57b141cbb2b31588e95",
+          "bytes": 1722716,
+          "sha256": "c28210057df24b5ef73947c485d8bd90806190dab60cd8b18af652717315d1c3",
           "meshes": 1,
-          "materials": 25,
+          "materials": 27,
           "textures": 14,
-          "triangles": 16567
+          "triangles": 16571
         }
       ]
     },
@@ -205,8 +205,8 @@
           "id": "white",
           "label": "白版",
           "asset": "models/refill-v2-white.glb",
-          "bytes": 653592,
-          "sha256": "3cdd5e6eaf1e6f1ba653d038c861dc416e5aa011a1e8bbaea6211cbffdcb2b42",
+          "bytes": 651220,
+          "sha256": "a7bf469031093437a0ce5f4b6f426742db93ab353358f92b30e327dec14b1064",
           "meshes": 1,
           "materials": 18,
           "textures": 12,
@@ -216,8 +216,8 @@
           "id": "blue",
           "label": "藍版",
           "asset": "models/refill-v2-blue.glb",
-          "bytes": 647272,
-          "sha256": "1374535b73c51bb88d79e77a1f64893b8f11409da612c041861871ec9534470e",
+          "bytes": 644900,
+          "sha256": "4a832e7ee8b4ad87cad7a29c6c18c68bc1a377540b156738e8a15075c6b2aff6",
           "meshes": 1,
           "materials": 18,
           "textures": 12,
