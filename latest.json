@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "20260927.022609",
-  "generated_at": "2026-09-26T18:26:51.501884+00:00",
+  "release": "20260929.115932",
+  "generated_at": "2026-09-29T04:00:23.934458+00:00",
   "unit": "centimeter",
   "webxr_scale": 0.01,
   "models": [
@@ -222,6 +222,83 @@
           "materials": 18,
           "textures": 12,
           "triangles": 8168
+        }
+      ]
+    },
+    {
+      "id": "battery-v3",
+      "label": "二代電池機（無旅電版）",
+      "size_cm": {
+        "w": 41,
+        "h": 175,
+        "d": 34
+      },
+      "variants": [
+        {
+          "id": "yellow",
+          "label": "ECOCO 黃版",
+          "asset": "models/battery-v3-yellow.glb",
+          "bytes": 237900,
+          "sha256": "7f8d156010611bc03eadcf7c6bfe2da0d892a7095cf63132cd28935266342b42",
+          "meshes": 1,
+          "materials": 10,
+          "textures": 5,
+          "triangles": 3808
+        },
+        {
+          "id": "tlw",
+          "label": "特力屋版",
+          "asset": "models/battery-v3-tlw.glb",
+          "bytes": 248920,
+          "sha256": "d98de089c4622235d480428a4c6969d23504b95250246da6a2a2e8afc5860e23",
+          "meshes": 1,
+          "materials": 10,
+          "textures": 5,
+          "triangles": 3808
+        },
+        {
+          "id": "meizhicheng",
+          "label": "早安美芝城版",
+          "asset": "models/battery-v3-meizhicheng.glb",
+          "bytes": 236708,
+          "sha256": "c2523126671692e5dc68e6b7af3e81684790da6cbf3d0881602b2853c601c287",
+          "meshes": 1,
+          "materials": 10,
+          "textures": 5,
+          "triangles": 3808
+        }
+      ]
+    },
+    {
+      "id": "battery-v3-travel",
+      "label": "二代電池機（旅電版）",
+      "size_cm": {
+        "w": 41,
+        "h": 175,
+        "d": 34
+      },
+      "variants": [
+        {
+          "id": "yellow",
+          "label": "ECOCO 黃版",
+          "asset": "models/battery-v3-travel-yellow.glb",
+          "bytes": 442740,
+          "sha256": "26d549cf79895a2e2221bd2e2bb5ffa3225735b9e0c3936f5e722d4f1b187503",
+          "meshes": 1,
+          "materials": 13,
+          "textures": 6,
+          "triangles": 4676
+        },
+        {
+          "id": "meizhicheng",
+          "label": "早安美芝城版",
+          "asset": "models/battery-v3-travel-meizhicheng.glb",
+          "bytes": 441548,
+          "sha256": "86362c248b9f3b36676f1f5becdfd5c8370c6fbebeb6eb3dae9a9477152a6904",
+          "meshes": 1,
+          "materials": 13,
+          "textures": 6,
+          "triangles": 4676
         }
       ]
     }
