@@ -1,10 +1,43 @@
 {
   "schema": 1,
-  "release": "20261104.134731",
-  "generated_at": "2026-11-04T05:49:01.630890+00:00",
+  "release": "20261104.164426",
+  "generated_at": "2026-11-04T08:53:14.622938+00:00",
   "unit": "centimeter",
   "webxr_scale": 0.01,
   "models": [
+    {
+      "id": "receipt-ai4",
+      "label": "單機收瓶機",
+      "size_cm": {
+        "w": 88,
+        "h": 190,
+        "d": 93
+      },
+      "variants": [
+        {
+          "id": "yellow",
+          "label": "ECOCO 黃版",
+          "asset": "models/receipt-ai4-yellow.glb",
+          "bytes": 689496,
+          "sha256": "d17c40ef0863c18f8802c383b32a0ce5619099b6e9b4e7425a0b55a81131ab03",
+          "meshes": 1,
+          "materials": 11,
+          "textures": 5,
+          "triangles": 1111
+        },
+        {
+          "id": "pxmart",
+          "label": "全聯版",
+          "asset": "models/receipt-ai4-pxmart.glb",
+          "bytes": 826580,
+          "sha256": "ab8f089dc57b5da209cb74d8144ee324012d57eb7c2449ed7309d570b7ce6a7b",
+          "meshes": 1,
+          "materials": 11,
+          "textures": 5,
+          "triangles": 1111
+        }
+      ]
+    },
     {
       "id": "receipt-18",
       "label": "1.8 收瓶機（高版）",
